@@ -1,10 +1,10 @@
-member,district,chamber,r_2022_candidate,r_votes_2022,r_votes_2026,vote_change,vote_change_pct,share_2022,share_2026,share_change_pts,margin_2022_pts,margin_2026_pts,margin_change_pts,avg_vote_change,avg_vote_change_pct,avg_share_change_pts,avg_margin_change_pts,over_vote_change_pct,over_share_pts,over_margin_pts,total_2022,total_2026,flag
-Rep. Mike Wiener,SD5,Senate,Paul J. Utke,28731,30380,1649,5.74,72.83,71.19,-1.64,45.74,42.61,-3.13,618,2.29,-3.84,-8.0,3.45,2.2,4.87,39450,42676,"2022 SD5 R was Paul Utke (different candidate); Wiener was the HD5B rep in 2022. Compared district-to-district, not candidate-to-candidate."
-Sen. Nathan Wesenberg,SD10,Senate,Nathan Wesenberg,28395,30655,2260,7.96,72.41,72.46,0.05,45.07,45.06,-0.02,618,2.29,-3.84,-8.0,5.67,3.9,7.98,39216,42307,
-Sen. Michael Holmstrom Jr,SD29,Senate,Bruce Anderson,26505,27444,939,3.54,68.04,63.38,-4.66,36.15,26.81,-9.35,618,2.29,-3.84,-8.0,1.25,-0.82,-1.35,38955,43304,2022 SD29 R was Bruce Anderson (different candidate). Compared district-to-district.
-Sen. Eric Lucero,SD30,Senate,Eric Lucero,26146,28534,2388,9.13,65.18,60.33,-4.85,30.41,20.7,-9.71,618,2.29,-3.84,-8.0,6.84,-1.01,-1.71,40112,47296,
-Sen. Bill Lieske,SD58,Senate,Bill Lieske,21125,22226,1101,5.21,52.79,49.23,-3.56,5.68,-1.47,-7.14,618,2.29,-3.84,-8.0,2.92,0.28,0.86,40017,45150,Same candidate both years; lost in 2026 by 663.
-Rep. Ben Davis,HD6A,House,Ben Davis,13657,14401,744,5.45,62.3,62.09,-0.21,24.63,24.23,-0.39,331,2.51,-3.79,-7.84,2.94,3.59,7.44,21922,23194,
-Rep. Tom Murphy,HD9B,House,Tom Murphy,15322,16375,1053,6.87,70.29,68.88,-1.41,40.79,37.84,-2.95,331,2.51,-3.79,-7.84,4.36,2.39,4.89,21798,23772,
-Rep. Marj Fogelman,HD21B,House,Marj Fogelman,9437,9353,-84,-0.89,66.5,61.34,-5.16,33.19,22.73,-10.46,331,2.51,-3.79,-7.84,-3.4,-1.37,-2.62,14190,15247,
-Rep. Drew Roach,HD58B,House,Patrick Garofalo,11919,12454,535,4.49,62.43,55.32,-7.11,24.95,10.71,-14.24,331,2.51,-3.79,-7.84,1.98,-3.31,-6.41,19093,22514,2022 HD58B R was Patrick Garofalo (different candidate). Compared district-to-district.
+member,district,chamber,r_votes_2022,r_votes_2026,vote_change,pct_change,chamber_avg_pct_change,vs_avg_pts,flag
+Sen. Eric Lucero,SD30,Senate,26146,28534,2388,9.13,2.29,6.84,
+Sen. Nathan Wesenberg,SD10,Senate,28395,30655,2260,7.96,2.29,5.67,
+Rep. Tom Murphy,HD9B,House,15322,16375,1053,6.87,2.51,4.36,
+Rep. Mike Wiener,SD5,Senate,28731,30380,1649,5.74,2.29,3.45,Paul Utke (R) ran in 2022
+Rep. Ben Davis,HD6A,House,13657,14401,744,5.45,2.51,2.94,
+Sen. Bill Lieske,SD58,Senate,21125,22226,1101,5.21,2.29,2.92,
+Rep. Drew Roach,HD58B,House,11919,12454,535,4.49,2.51,1.98,Patrick Garofalo (R) ran in 2022
+Sen. Michael Holmstrom Jr,SD29,Senate,26505,27444,939,3.54,2.29,1.25,Bruce Anderson (R) ran in 2022
+Rep. Marj Fogelman,HD21B,House,9437,9353,-84,-0.89,2.51,-3.4,
