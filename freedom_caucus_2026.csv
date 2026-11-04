@@ -1,0 +1,10 @@
+member,district,chamber,votes,pct,opponent,opp_votes,margin,margin_pts,district_total,chamber_avg_R_votes,vs_avg_votes,chamber_avg_R_pct,vs_avg_pts,result
+Rep. Mike Wiener,SD5,Senate,30380,71.19,Skylar Fynboh (DFL),12197,18183,42.61,42676,19344,11036,45.98,25.21,Won
+Sen. Nathan Wesenberg,SD10,Senate,30655,72.46,Tara Killen (DFL),11593,19062,45.06,42307,19344,11311,45.98,26.48,Won
+Sen. Michael Holmstrom Jr,SD29,Senate,27444,63.38,Louis McNutt (DFL),15836,11608,26.81,43304,19344,8100,45.98,17.4,Won
+Sen. Eric Lucero,SD30,Senate,28534,60.33,Leah Temple (DFL),18743,9791,20.7,47296,19344,9190,45.98,14.35,Won
+Sen. Bill Lieske,SD58,Senate,22226,49.23,Mark Legvold (DFL),22889,-663,-1.47,45150,19344,2882,45.98,3.25,Lost
+Rep. Ben Davis,HD6A,House,14401,62.09,Samuel Grigsby (DFL),8780,5621,24.23,23194,9982,4419,47.46,14.63,Won
+Rep. Tom Murphy,HD9B,House,16375,68.88,Owen Werner (DFL),7380,8995,37.84,23772,9982,6393,47.46,21.42,Won
+Rep. Marj Fogelman,HD21B,House,9353,61.34,Jon Wilson (DFL),5887,3466,22.73,15247,9982,-629,47.46,13.88,Won
+Rep. Drew Roach,HD58B,House,12454,55.32,Ed Fellows (DFL),10043,2411,10.71,22514,9982,2472,47.46,7.86,Won
